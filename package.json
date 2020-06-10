@@ -14,5 +14,8 @@
   },
   "type": "module",
   "author": "jswoo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
 }
