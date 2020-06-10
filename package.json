@@ -16,6 +16,7 @@
   "author": "jswoo",
   "license": "ISC",
   "dependencies": {
-    "commander": "^5.1.0"
+    "commander": "^5.1.0",
+    "rimraf": "^3.0.2"
   }
 }
